@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (speed = 0) {
-	speed = 15;
-	direction = 0;
-}
+drag_start_x = event_data[?"posX"];
+drag_start_y = event_data[?"posY"];
