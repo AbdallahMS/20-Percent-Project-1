@@ -7,8 +7,8 @@
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 63,
-    "bbox_left": 0,
-    "bbox_right": 63,
+    "bbox_left": 4,
+    "bbox_right": 49,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "db316b2e-1177-4ef6-93ec-24f571954f27",
+            "id": "eae05e00-e4de-4150-8c58-13646833a504",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "2f0c2675-defb-4055-a2db-dd07e9675cfb",
             "compositeImage": {
-                "id": "1ff80cea-5d42-469b-9b2a-3209ba490d3b",
+                "id": "d1c2645f-796c-4d66-ae5d-316a8f3d8b2c",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "db316b2e-1177-4ef6-93ec-24f571954f27",
+                "FrameId": "eae05e00-e4de-4150-8c58-13646833a504",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "2d5b0178-34ee-479a-b867-89059f258c2a",
+                    "id": "d7cfec05-ccff-4da4-b9b1-5cda83418b86",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "db316b2e-1177-4ef6-93ec-24f571954f27",
-                    "LayerId": "5f22af00-3f1d-4121-b7fd-a49384b00e63"
+                    "FrameId": "eae05e00-e4de-4150-8c58-13646833a504",
+                    "LayerId": "671da8ba-3c3a-4558-8caa-8ad2c6cf9995"
                 }
             ]
         }
@@ -43,7 +43,7 @@
     "height": 64,
     "layers": [
         {
-            "id": "5f22af00-3f1d-4121-b7fd-a49384b00e63",
+            "id": "671da8ba-3c3a-4558-8caa-8ad2c6cf9995",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "2f0c2675-defb-4055-a2db-dd07e9675cfb",
@@ -55,7 +55,7 @@
         }
     ],
     "origin": 4,
-    "originLocked": false,
+    "originLocked": true,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,

@@ -47,11 +47,11 @@
             }
         },
         {
-            "Key": "100ffe6b-970f-4023-bdad-d2bb03d4c0eb",
+            "Key": "0907406e-7452-486c-a59e-4f4f9278399f",
             "Value": {
-                "id": "88c77290-b1c2-46a6-9316-a00192b55864",
-                "resourcePath": "objects\\gameOver_obj\\gameOver_obj.yy",
-                "resourceType": "GMObject"
+                "id": "a8ed83d4-ec90-42c5-b3e8-917580a9c419",
+                "resourcePath": "sprites\\titleScreen_spr\\titleScreen_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,14 +143,6 @@
             }
         },
         {
-            "Key": "5631f11c-7bf9-46bd-b542-75085c3afe3c",
-            "Value": {
-                "id": "b4993996-f17a-4007-900e-f8b1b801811f",
-                "resourcePath": "rooms\\GameOver\\GameOver.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "59c3810b-5b9f-41d4-94e5-0e9dd325eb60",
             "Value": {
                 "id": "34ae9b7d-6d0b-4311-8e4b-b2b799ec4ce0",
@@ -231,6 +223,14 @@
             }
         },
         {
+            "Key": "8dba9a11-efdb-4683-a32c-897889c6dd2b",
+            "Value": {
+                "id": "ac54418b-ec50-472f-b2f6-4bc39d74bace",
+                "resourcePath": "sounds\\background_m\\background_m.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "6ed7df1a-480c-40c7-b904-96140a933524",
@@ -266,7 +266,7 @@
             "Key": "a4eb2425-ca37-4466-a9b5-ff408ffe4b07",
             "Value": {
                 "id": "c1b82e73-1fb8-495b-94a8-8c9263de5b43",
-                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourcePath": "rooms\\Level3\\Level3.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -348,6 +348,14 @@
                 "id": "12ee3df3-d058-4f89-8c00-577960afa85f",
                 "resourcePath": "objects\\titleScreen_obj\\titleScreen_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d17c9b25-936f-4548-9f0c-676b7759682d",
+            "Value": {
+                "id": "b6d3e582-1faf-49d0-87ba-27d9f3a7e0ae",
+                "resourcePath": "sounds\\title_m\\title_m.yy",
+                "resourceType": "GMSound"
             }
         },
         {
